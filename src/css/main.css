@@ -446,3 +446,12 @@ footer {
   text-align: center;
 }
 
+header {
+  border-bottom: 1px solid #212121;
+  color: #212121;
+  font-size: calc(5 / 8 * 1rem);
+  padding: 3mm;
+  width: 100% !important;
+  text-align: justify;
+}
+
